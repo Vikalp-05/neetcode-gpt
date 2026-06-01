@@ -12,4 +12,4 @@ class Solution:
         else:
             result = z
         return round(float(result), 5)
-        pass
+        
