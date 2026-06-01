@@ -8,4 +8,3 @@ class Solution:
 
         return round(minimizer, 5)
         
-        pass
